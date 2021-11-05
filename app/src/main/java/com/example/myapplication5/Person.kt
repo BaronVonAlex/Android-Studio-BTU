@@ -40,8 +40,8 @@ fun main()
     person1.age = 19
     person1.printName()
     var person2 = Person()
-    person2.name = "Alex"
-    person2.age = 19
+    person2.name = "Sandro"
+    person2.age = 18
     person2.printName()
     println(person1 == person2)
     person1 == person2
